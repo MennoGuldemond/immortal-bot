@@ -1,0 +1,20 @@
+{
+  "name": "immortal-news-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that gives updates on diablo immortal news",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Menno Guldemond",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0"
+  }
+}
